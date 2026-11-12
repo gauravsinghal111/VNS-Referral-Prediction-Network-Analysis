@@ -1,0 +1,8 @@
+# Raw downloads are multi-GB public files - see data/README.md to re-download
+data/raw/
+data/processed/*.parquet
+!data/processed/.gitkeep
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+resume.tex
